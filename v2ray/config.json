@@ -23,21 +23,7 @@
 		 ]
 	 }
 	 }
- //include_ss
- //include_socks
-	 ,
-{
-    "protocol": "mtproto",
-     "port": 33399,
-    "tag": "tg-in",
-    "settings": {
-     "users": [
-      {
-     "secret": "dd00cf83cfd76e3757c37c067acea391"
-       }
-            ]
-       }
- }
+ 
  //include_in_config
  //
 	],
